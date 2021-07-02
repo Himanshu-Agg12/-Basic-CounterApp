@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    font-family: "arial",sans-serif;
+    width: auto;
+}
+footer{
+    margin-top: 3rem;
+    color: aquamarine;
+}
+#heading{
+    font-size: 4rem;
+}
+#value{
+    font-size: 10rem;
+}
+.buttons{
+    padding-top: 2rem;
+    width: auto;
+}
+.increment{
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    font-size: 2rem;
+    width: 2rem;
+}
+.reset{
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    font-size: 2rem;
+}
+.decrement{
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    font-size: 2rem;
+    width: 2rem;
+}
+.container{
+    margin-top: 10rem;
+}
+button.increment{
+    background-color: green;
+}
+button.decrement{
+    background-color: red;
+}
+button.reset{
+    color: white;
+    background-color: black;
+}
